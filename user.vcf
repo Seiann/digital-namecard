@@ -7,8 +7,6 @@ ORG:True Strategy & Design;
 TITLE:Chief Productivity Officer
 EMAIL;type=INTERNET;type=WORK;type=pref:dian@truestrategydesign.com
 TEL;type=WORK;type=VOICE:(347)542-7685
-item1.ADR;type=WORK;type=pref:;;
-item1.X-ABADR:sg
 item2.URL;type=pref:truestrategydesign.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
